@@ -45,4 +45,4 @@ A Streamlit web application is developed, enabling users to:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/899-12/Next-Word-Prediction-using-LSTM-RNN.git
